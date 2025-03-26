@@ -3,8 +3,8 @@ public class Simple
     public static void main(String args[])
     {
         System.out.println("Hello Java");
-        System.out.println("Фамилия: Пальчевский");
-        System.out.println("Имя: Кирилл");
-        System.out.println("Дата: " + new java.util.Date());
+        System.out.println("Surname: Palchevskiy");
+        System.out.println("Name: Kirill");
+        System.out.println("Date: " + new java.util.Date());
     }
 }
